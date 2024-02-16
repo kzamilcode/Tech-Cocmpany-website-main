@@ -10348,7 +10348,6 @@ textarea:-ms-input-placeholder {
 }
 
 .section-title {
-  /* text-align: center; */
   color: #ddd;
   text-transform: uppercase;
   font-size: 30px;
